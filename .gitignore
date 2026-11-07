@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment (Slide 12: excluded from version control)
+.venv/
+venv/
+ENV/
+env/
+
+# IDE / OS
+.DS_Store
+Thumbs.db
