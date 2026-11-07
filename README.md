@@ -6,6 +6,9 @@ A step-by-step implementation and usage guide for creating a local **Model Conte
 
 ## 📌 Project Overview
 
+-**Name:** Shaik.Mehwish
+-**Reg NO:**261FB04024
+
 - **Project Name:** `hello-mcp`
 - **Language:** Python (3.11+)
 - **SDK:** Model Context Protocol (MCP) Python SDK 2.x (`mcp[cli]`)
